@@ -5,6 +5,9 @@ GAME DESCRIPTION:
     There are 2 players. 
     They have Missile Launchers. 
     Shoot the other player and bring their health to zero. 
+    
+GAMEPLAY DEMO: 
+    Youtube Link: 
 
 HOW TO RUN: 
     - Unzip the project folder
@@ -13,7 +16,9 @@ HOW TO RUN:
     - A new .vscode folder should be in the project folder with settings.json 
     - In Package Main, run Game.java
     - Enjoy! 
-
+    
+    
+    
 PACKAGES AND CLASSES 
 
 ENTITY:
