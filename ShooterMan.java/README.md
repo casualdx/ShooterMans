@@ -7,7 +7,7 @@ GAME DESCRIPTION:
     Shoot the other player and bring their health to zero. 
     
 GAMEPLAY DEMO: 
-    Youtube Link: 
+    Youtube Link: https://youtu.be/OI3qU66PGVE
 
 HOW TO RUN: 
     - Unzip the project folder
